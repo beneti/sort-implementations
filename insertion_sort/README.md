@@ -10,3 +10,5 @@ Best case performance  -> O(n) comparisons, O(1) swaps
 # How to use?
 
 [8, 2, 4, 1, 9, 3, 7, 6].insertion_sort
+
+[8, 2, 4, 1, 9, 3, 7, 6].desc_insertion_sort (just 4fun)
