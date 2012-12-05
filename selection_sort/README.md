@@ -1,4 +1,4 @@
-insertion_sort
+selection_sort
 ====================
 
 ![selection_sort!!](http://upload.wikimedia.org/wikipedia/commons/9/94/Selection-Sort-Animation.gif)
