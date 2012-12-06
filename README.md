@@ -8,3 +8,5 @@ Implementations for sort algorithm in ruby
 - Selection Sort
 
 - Merge Sort
+
+- Bubble Sort
