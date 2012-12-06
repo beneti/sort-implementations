@@ -1,7 +1,7 @@
 merge_sort
 ====================
 
-![merge_sort!!](http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Merge-sort-example-300px.gif/220px-Merge-sort-example-300px.gif)
+![merge_sort!!](http://upload.wikimedia.org/wikipedia/commons/c/cc/Merge-sort-example-300px.gif)
 
 Worst case performance -> О(n log n)
 
